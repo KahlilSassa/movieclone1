@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project is a Netflix clone I developed with React.js & Redux. User should be able to browse through movie genres and be able to click and watch the Smile trailer.
-
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
